@@ -104,7 +104,9 @@ bash
 Copier le code
 
 ```cd C00/ex00```
+
 ```gcc -Wall -Wextra -Werror ft_print_program_name.c -o ft_print_program_name```
+
 ```./ft_print_program_name```
 
 ## Contact
