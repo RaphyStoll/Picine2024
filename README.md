@@ -87,8 +87,23 @@ La piscine 2024 à 42 Lausanne est un programme intensif de quatre semaines où 
 ## Instructions pour l'installation
 Clonez ce dépôt sur votre machine locale en utilisant la commande suivante :
 
-```bash
-git clone https://github.com/votre-utilisateur/Piscine-2024.git```
+### bash
+```git clone https://github.com/votre-utilisateur/Piscine-2024.git```
 
-### Contact
+### Naviguez dans le dossier du projet :
+
+bash
+Copier le code
+```cd Piscine-2023```
+
+### Utilisation
+Pour chaque module, naviguez dans le répertoire correspondant et compilez les fichiers C en utilisant un compilateur comme gcc. Par exemple, pour compiler les fichiers du module C00 :
+
+bash
+Copier le code
+```cd C00/ex00```
+```gcc -Wall -Wextra -Werror ft_print_program_name.c -o ft_print_program_name```
+```./ft_print_program_name```
+
+## Contact
 Pour toute question ou suggestion, veuillez me contacter à raphael.ferreria@ik.me.
