@@ -87,7 +87,7 @@ La piscine 2024 à 42 Lausanne est un programme intensif de quatre semaines où 
 ## Instructions pour l'installation
 Clonez ce dépôt sur votre machine locale en utilisant la commande suivante :
 
-### bash
+bash
 ```git clone https://github.com/votre-utilisateur/Piscine-2024.git```
 
 ### Naviguez dans le dossier du projet :
