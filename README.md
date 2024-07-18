@@ -100,7 +100,9 @@ Copier le code
 Pour chaque module, naviguez dans le répertoire correspondant et compilez les fichiers C en utilisant un compilateur comme gcc. Par exemple, pour compiler les fichiers du module C00 :
 
 bash
+
 Copier le code
+
 ```cd C00/ex00```
 ```gcc -Wall -Wextra -Werror ft_print_program_name.c -o ft_print_program_name```
 ```./ft_print_program_name```
